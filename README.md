@@ -1,4 +1,4 @@
-# Lab-Assignment 5 SOLID Principles
+# Lab Assignment 5 SOLID Principles
 Improve the following codes to implement SOLID principles in OOP.
 
 public interface Order 
